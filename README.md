@@ -16,10 +16,7 @@ During the 5-10 pitch presentation, one or two members of the group will present
 
 ## Python
 
-We prepared an iPython notebook for this use case. You can read it on this Github page or you can download it into the folder with the NESDA data we provided and rerun/modify the code you see there.
+We prepared an iPython notebook for this use case (use-case.ipynb). You can go through it on this Github page (all code has been run so you can see the output) or you can use it on Google Colab or using Jupyter Lab on your own computer.
 
-### Google Colab
-Here is an instructional video to help you get started with Google Colab: https://www.youtube.com/watch?v=inN8seMm7UI
-
-### Anaconda/Jupyter Lab
-To setup using Anaconda, you can use this tutorial: https://towardsdatascience.com/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way-de3b7623ea4a
+- Google Colab: here is an instructional video to help you get started with Google Colab: https://www.youtube.com/watch?v=inN8seMm7UI
+- Anaconda/Jupyter Lab: to setup Anaconda/Jupyter Lab, you can use this tutorial: https://towardsdatascience.com/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way-de3b7623ea4a. After doing so, you can download the use-case.ipynb into the folder with the NESDA data we provided and rerun/modify the code you see there. 
