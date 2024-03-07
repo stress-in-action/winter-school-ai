@@ -1,7 +1,8 @@
 # VU AI Winter School: Psychiatry Use Case
 
 ![alt text](https://psychiatryamsterdam.nl/wp-content/uploads/2023/11/Logo-SIA1.jpg)
-![alt text](https://psychiatryamsterdam.nl/wp-content/uploads/2023/10/logo-psychiatry.png)
+
+![alt text](https://psychiatryamsterdam.nl/wp-content/uploads/2023/10/logo-psychiatry.png, =250x250)
 
 ## General instruction
 You have been divided into groups of approximately 5 people, each group gets assigned one of the two use cases (see document for your group and use case). We have taken into account your research domain/interests and other information you provided for putting together the groups.
