@@ -3,6 +3,7 @@
 ![alt text](https://psychiatryamsterdam.nl/wp-content/uploads/2023/11/Logo-SIA1.jpg) 
 
 
+![alt text](https://pbs.twimg.com/profile_images/1004729012571332608/0e8Lc6jl_400x400.jpg)
 
 
 ![alt text](https://psychiatryamsterdam.nl/wp-content/uploads/2023/10/logo-psychiatry.png)
