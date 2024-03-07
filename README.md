@@ -1,7 +1,7 @@
 # VU AI Winter School: Psychiatry Use Case
 
-![alt text](https://psychiatryamsterdam.nl/wp-content/uploads/2023/11/Logo-SIA1.jpg) 
 
+<img src="https://example.com/image.jpg](https://psychiatryamsterdam.nl/wp-content/uploads/2023/11/Logo-SIA1.jpg" width="300" height="200">
 
 ![alt text](https://pbs.twimg.com/profile_images/1004729012571332608/0e8Lc6jl_400x400.jpg)
 
